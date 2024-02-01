@@ -1,2 +1,2 @@
 # Midas-project
-The MIDAS project focuses on software development for continuous monitoring, automated maintenance, and streamlined remote assistance. It aims to enhance IT environment performance and stability with efficient task completion.
+The MIDAS project involves developing software for continuous monitoring and automated maintenance. It also includes simplified remote assistance for faster and more efficient completion of tasks, ultimately enhancing performance and stability in clients' IT environments.
